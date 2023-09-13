@@ -1,0 +1,17 @@
+{
+  "name": "tradingview-jsapi-forex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitamarcius/tradingview-jsapi-forex.git"
+  },
+  "author": "Nikita Marcius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikitamarcius/tradingview-jsapi-forex/issues"
+  },
+  "homepage": "https://github.com/nikitamarcius/tradingview-jsapi-forex#readme"
+}
